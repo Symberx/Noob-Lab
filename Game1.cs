@@ -1,11 +1,12 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-
+  
 namespace $safeprojectname$
 {
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
+    /// сик кака
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
